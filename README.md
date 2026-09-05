@@ -1,4 +1,3 @@
-@'
 # Real A11y — Agent Skills
 
 Workflow [Agent Skills](https://agentskills.io) that teach coding agents how to
